@@ -10,7 +10,7 @@ import os
 
 
 chemin_vers_fichier_de_note = "chemin_vers_votre_fichier_teste_de_reveil"
-ville = "Tournan-en-Brie"
+ville = "Indiquez le nom de votre ville"
 
 mode_reveil = 1
 global mode_reveil
