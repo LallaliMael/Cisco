@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo python3 "Indiquez le chemin du fichier 'cisco.py'"
+sudo sudo python Indiquez le chemin du fichier 'demo.py' "Indiquez le chemin du fichier 'Cisco.pmdl'"
