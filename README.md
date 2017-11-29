@@ -40,6 +40,6 @@ Après avoir téléchargé le dossier Cisco, ouvrez le fichier “cisco py” av
 
 # Utilisation :
 
-Pour l’utiliser il suffit d’ouvrir un terminal dans le dossier “Cisco” et d’y lance la commande : “sudo bash Cisco”. Une fois le programme lancé dite : “ Cisco “, quand un *ding* sera joué votre assistant écoutera votre demande, par exemple dites : “Présente toi”.
+Pour l’utiliser il suffit d’ouvrir un terminal dans le dossier “Cisco” et d’y lancé la commande : “sudo bash Cisco”. Une fois le programme lancé dite : “ Cisco “, quand un *ding* sera joué votre assistant écoutera votre demande, par exemple dites : “Présente toi”.
 
 
