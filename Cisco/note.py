@@ -3,7 +3,7 @@ import parole
 
 liste_note = []
 
-chemin_vers_fichier_de_note = "chemin_vers_votre_fichier_texte_de_notes"
+chemin_vers_fichier_de_note = "note.txt"
 
 fichier_de_note = open(chemin_vers_fichier_de_note, "r") 
 contenu = fichier_de_note.read()
