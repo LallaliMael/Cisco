@@ -9,7 +9,7 @@ import datetime
 import os
 
 
-chemin_vers_fichier_de_note = "chemin_vers_votre_fichier_teste_de_reveil"
+chemin_vers_fichier_de_note = "réveil.txt"
 ville = "Indiquez le nom de votre ville"
 
 mode_reveil = 1
