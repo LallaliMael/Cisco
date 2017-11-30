@@ -8,7 +8,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 liste_rappel = ['Vous m\'aviez demandé de vous rappelez : ','Je devez vous rappeller : ','Vous aviez programmé le rappel : ']
-chemin_vers_fichier_de_note = "chemin_vers_votre_fichier_texte de_synthese_vocale"
+chemin_vers_fichier_de_note = "rappel.txt"
 
 def rappel():
   conteur_rappel = 1
