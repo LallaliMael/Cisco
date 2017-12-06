@@ -34,7 +34,6 @@ Cisco peut être utilisé sur tous les versions de Linux et sous Windows, cepend
 - speech_recognition
 - gtts
 - pyaudio
-- 
 
 # Parametrage : 
 
