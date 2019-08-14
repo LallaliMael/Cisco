@@ -1,46 +1,33 @@
-
-
-# Cisco
-
-
-# Installation : 
-
-Cisco est un des meilleurs assistants virtuel open source que vous pouvez trouver. Optimisé pour un environnement Linux, il est capable de répondre à la plupart de vos demandes, du réveil tous les matins à la détection des appareils connectés à votre réseau, en passant par le rappel des choses importantes de votre journée ou à la lecture de vos musique préféré.
-
-SI vous avez quelque connaissance en python, vous pouvez facilement modifier Cisco pour le rendre plus efficace face à vos attentes.
-
-La meilleure façon d’utiliser Cisco est de le faire tourner sur un raspberry pi, avec un microphone USB et une/plusieurs enceinte.
-Cisco peut être utilisé sur tous les versions de Linux et sous Windows, cependant nous allons voir comment l’installer sous Raspbian.
+Cisco est un assistant virtuel open source. Optimisé pour un environnement Linux, il est capable de répondre à la plupart de vos demandes. Il pourra par exemple vous réveillez tous les matins, détectez les appareils connectés à votre réseau, ou vous rappelez les choses importantes de votre journée. 
+Si vous avez quelque connaissance en python, vous pourrez facilement modifier Cisco pour le rendre plus efficace face à vos attentes.
+La meilleure façon d’utiliser Cisco est de le faire tourner sur un raspberry pi, avec un microphone USB et une ou plusieurs enceintes. Cisco peut également être utilisé sur toutes les versions de Linux et sous Windows, les indications suivantes sont cependant adapté à Rasbian.
 
 # Prérequis : 
+   - Rasbian
+   - Python 3.5 ( Sudo apt get install python3.5 )
+   - Pip 3 ( sudo apt get install python3-pip)
+   - Lxterminal 
+   - Nmap 
 
-- Rasbian
-- Python 3.5  ( sudo apt-get install python3.5 )
-- pip 3 ( sudo apt-get install python3-pip )
-- Lxterminal
- - nmap
 # Module python 3 : 
+   - Lxml
+   - Requests
+   - Imaplib
+   - Webbrowser
+   - Threading
+   - Json
+   - Wikipédia
+   - Threading
+   - Urllib
+   - Nltk
+   - Speech_recognition
+   - Gtts
+   - Pyaudio 
 
-- lxml
-- requests
-- imaplib
-- webbrowser
-- threading
-- json
-- wikipedia
-- threading
-- urllib
-- nltk
-- speech_recognition
-- gtts
-- pyaudio
-
-# Parametrage : 
-
-Après avoir téléchargé le dossier Cisco, ouvrez le fichier “cisco py” avec un éditeur de texte et entrer les chemins d'accès nécessaire où ils vous sont demandés, ainsi que votre adresse email et votre mot de passe ( pour que Cisco puisse vous prévenir à chaque fois que vous recevez un nouveau mail ). Puis ouvrez le fichier “Cisco” et indiquez les chemins demandés.
+#  Paramétrage : 
+   Après avoir téléchargé le dossier Cisco, ouvrez le fichier “cisco py” avec un éditeur de texte et entrer les chemins d'accès où ils vous sont demandés, ainsi que votre adresse email et votre mot de passe ( pour que Cisco puisse vous prévenir à chaque fois que vous recevez un nouveau mail). 
+Puis ouvrez le fichier “Cisco” et indiquez les chemins demandés.
 
 # Utilisation :
-
-Pour l’utiliser il suffit d’ouvrir un terminal dans le dossier “Cisco” et d’y lancé la commande : “sudo bash Cisco”. Une fois le programme lancé dite : “ Cisco “, quand un *ding* sera joué votre assistant écoutera votre demande, par exemple dites : “Présente toi”.
-
-
+   Pour utiliser votre assistant, ouvrez un terminal dans le dossier "/Cisco'" et lancez la commande "sudo Bash Cisco".
+Une fois le programme lancez dites "Cisco". Le programme sera à l'écoute de vos demandes quand un *Ding* sera jouée. Vous pouvez, par exemple, lui demander de se présenter
