@@ -1,6 +1,6 @@
-Cisco est un assistant virtuel open source. Optimisé pour un environnement Linux, il est capable de répondre à la plupart de vos demandes. Il pourra par exemple vous réveillez tous les matins, détectez les appareils connectés à votre réseau, ou vous rappelez les choses importantes de votre journée. 
-Si vous avez quelque connaissance en python, vous pourrez facilement modifier Cisco pour le rendre plus efficace face à vos attentes.
-La meilleure façon d’utiliser Cisco est de le faire tourner sur un raspberry pi, avec un microphone USB et une ou plusieurs enceintes. Cisco peut également être utilisé sur toutes les versions de Linux et sous Windows, les indications suivantes sont cependant adapté à Rasbian.
+Cisco est un assistant virtuel open source. Optimisé pour un environnement Linux, il est capable de répondre à la plupart de vos demandes. Il pourra par exemple vous réveiller tous les matins, détectez les appareils connectés à votre réseau, ou vous rappelez les choses importantes de votre journée. Si vous avez quelque connaissance en python, vous pourrez facilement modifier Cisco pour le rendre plus efficace face à vos attentes. La meilleure façon d’utiliser Cisco est de le faire tourner sur un Raspberry pi, avec un microphone USB et une enceinte. Cisco peut également être utilisé sur toutes les versions de Linux et sous Windows, les indications suivantes sont cependant adaptées à Rasbian.
+
+
 
 # Prérequis : 
    - Rasbian
